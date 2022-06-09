@@ -1,0 +1,46 @@
+a {
+      background-color : red;
+      color : white;
+      text-decoration: none;
+      text-transform: uppercase;
+      line-height: 50px;
+      text-align: center;
+      border-radius: 40px;
+      width: 15%;
+      height: 6%;
+      }
+      
+a:hover {
+            color: white;
+            background-color: black;
+            }      
+            
+.btn1 {
+      position: absolute;
+      margin-top: 5%;
+      margin-left: 40%;
+      } 
+      
+.btn2 {
+      position: absolute;
+      margin-top: 10%;
+      margin-left: 40%;
+      } 
+      
+.btn3 {
+      position: absolute;
+      margin-top: 15%;
+      margin-left: 40%;
+      } 
+      
+.btn4 {
+      position: absolute;
+      margin-top: 20%;
+      margin-left: 40%;
+      } 
+      
+.btn5 {
+      position: absolute;
+      margin-top: 25%;
+      margin-left: 40%;
+      }             
